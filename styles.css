@@ -7,10 +7,6 @@
   background-color: gray;
 }
 
-.image:nth-child(3n) {
-  margin: 0;
-}
-
 .list {
   text-decoration: none;
   display: block;
