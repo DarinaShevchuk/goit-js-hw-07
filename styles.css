@@ -1,3 +1,16 @@
+/* Task_6 */
+#validation-input {
+  border: 3px solid #bdbdbd;
+}
+
+#validation-input.valid {
+  border-color: #4caf50;
+}
+
+#validation-input.invalid {
+  border-color: #f44336;
+}
+
 /* Task 3 */
 
 .image {
@@ -20,17 +33,4 @@
   justify-content: center;
   margin: 0;
   padding: 0;
-}
-
-/* Task_6 */
-#validation-input {
-  border: 3px solid #bdbdbd;
-}
-
-#validation-input.valid {
-  border-color: #4caf50;
-}
-
-#validation-input.invalid {
-  border-color: #f44336;
 }
